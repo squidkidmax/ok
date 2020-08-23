@@ -1,0 +1,28 @@
+
+body {
+    background-color: gray;
+}
+
+div{
+    width: 300px;
+    height: 300px;
+    margin:30px 30px 30px 30px; 
+    border-left-style: groove;
+    border-right-style: groove;
+    border-bottom-style: groove;
+}
+
+.red {
+    background-color: blue;
+    padding-right: 10px;
+}
+
+
+.blue {
+    background-color: red;
+    }
+
+.yellow {
+    background-color: yellow;
+    
+}
