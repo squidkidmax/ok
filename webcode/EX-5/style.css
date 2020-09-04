@@ -1,9 +1,10 @@
-body { color:black; font-size: xx-large;text-align: center ;  }
+body { color:black; font-size: xx-large;text-align: center ; margin-right:100px;
+  margin-left:100px;  }
 
 img{width: 300px;height: 300px; margin:50px ; text-align: center; padding: 5px; margin-right:100px;
   margin-left:100px;}
         
-.pos{position:fixed;background-color: lightblue;font-size: x-large;top: 0px ;width: 100%;text-align: center;margin: 0%; }
+.pos{position:fixed;background-color: lightblue;font-size: x-large;top: 0px ;width: 100%;text-align: center;margin: 0%; left:0% }
 
 
 
@@ -28,6 +29,5 @@ img{width: 300px;height: 300px; margin:50px ; text-align: center; padding: 5px; 
     clear: both;
     display: table;
     border-style: solid;
-    margin-right:100px;
-    margin-left:100px;
+    
   }
